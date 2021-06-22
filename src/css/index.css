@@ -1,0 +1,29 @@
+body {
+  background-color: #ffffff;
+}
+
+.landImg {
+  margin: 10% 5% 10% 5%;
+  height: 90%;
+  width: 90%;
+}
+
+.landCaption {
+  margin: 10% 0% 10% 0%;
+}
+
+.validationMsg {
+  margin: 0px;
+  padding: 0px;
+}
+
+.profileImage {
+  border-radius: 50%;
+  width: 200px;
+  /* margin-left: 10px; */
+  /* align: center; */
+}
+
+.profileCard {
+  margin-left: 10px;
+}
